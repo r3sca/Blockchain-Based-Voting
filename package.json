@@ -1,0 +1,8 @@
+{
+  "name": "Blockchain-Based-Voting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/r3sca/Blockchain-Based-Voting.git",
+  "author": "Long Pham <long.phamnguyenthanh@gmail.com>",
+  "license": "MIT"
+}
